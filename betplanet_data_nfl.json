@@ -1,0 +1,95 @@
+{
+    "13 OCT TUESDAYNFL-american-football": {
+        "13BuTenfl": [
+            "1.50",
+            "Buffalo Bills",
+            "2.40",
+            "Tennessee Titans",
+            "23:00"
+        ]
+    },
+    "18 OCT SUNDAYNFL-american-football": {
+        "18BaPhnfl": [
+            "1.23",
+            "Baltimore Ravens",
+            "3.75",
+            "Philadelphia Eagles",
+            "17:00"
+        ],
+        "18CiInnfl": [
+            "3.95",
+            "Cincinnati Bengals",
+            "1.22",
+            "Indianapolis Colts",
+            "17:00"
+        ],
+        "18ChCanfl": [
+            "2.17",
+            "Chicago Bears",
+            "1.63",
+            "Carolina Panthers",
+            "17:00"
+        ],
+        "18AtMinfl": [
+            "2.50",
+            "Atlanta Falcons",
+            "1.47",
+            "Minnesota Vikings",
+            "17:00"
+        ],
+        "18WaGinfl": [
+            "2.23",
+            "Washington Football Team",
+            "1.58",
+            "New York Giants",
+            "17:00"
+        ],
+        "18ClPinfl": [
+            "2.58",
+            "Cleveland Browns",
+            "1.45",
+            "Pittsburgh Steelers",
+            "17:00"
+        ],
+        "18DeJanfl": [
+            "1.46",
+            "Detroit Lions",
+            "2.50",
+            "Jacksonville Jaguars",
+            "17:00"
+        ],
+        "18YoDonfl": [
+            "3.80",
+            "New York Jets",
+            "1.22",
+            "Miami Dolphins",
+            "20:05"
+        ],
+        "18PaBunfl": [
+            "1.69",
+            "Green Bay Packers",
+            "2.03",
+            "Tampa Bay Buccaneers",
+            "20:25"
+        ]
+    },
+    "19 OCT MONDAYNFL-american-football": {
+        "19AnFrnfl": [
+            "1.48",
+            "Los Angeles Rams",
+            "2.49",
+            "San Francisco 49ers",
+            "00:20"
+        ]
+    },
+    "20 OCT TUESDAYNFL-american-football": {
+        "20CaConfl": [
+            "1.66",
+            "Arizona Cardinals",
+            "2.12",
+            "Dallas Cowboys",
+            "00:15"
+        ]
+    },
+    "22 NOV SUNDAYNFL-american-football": {}
+}

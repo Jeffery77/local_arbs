@@ -1,0 +1,332 @@
+{
+    "LI1.Vsepl": [
+        "2.5",
+        "14.00",
+        "6.80",
+        "1.20",
+        "BURNLEY FC",
+        "VS",
+        "LIVERPOOL FC",
+        "21/08"
+    ],
+    "CR2.Vsepl": [
+        "2.5",
+        "2.85",
+        "3.20",
+        "2.60",
+        "BRENTFORD FC",
+        "VS",
+        "CRYSTAL PALACE",
+        "21/08"
+    ],
+    "MA1.Vsepl": [
+        "2.5",
+        "7.40",
+        "4.90",
+        "1.35",
+        "ARSENAL FC",
+        "VS",
+        "MANCHESTER CITY",
+        "28/08"
+    ],
+    "AS1.Vsepl": [
+        "2.5",
+        "3.50",
+        "3.60",
+        "1.95",
+        "BRENTFORD FC",
+        "VS",
+        "ASTON VILLA",
+        "28/08"
+    ],
+    "LE2.Vsepl": [
+        "2.5",
+        "2.95",
+        "3.45",
+        "2.37",
+        "EVERTON FC",
+        "VS",
+        "LEEDS UNITED",
+        "21/08"
+    ],
+    "BR1.Vsepl": [
+        "2.5",
+        "5.40",
+        "3.60",
+        "1.71",
+        "WATFORD FC",
+        "VS",
+        "BRIGHTON & HOVE ALBION",
+        "21/08"
+    ],
+    "SO5.Vsepl": [
+        "2.5",
+        "1.62",
+        "4.20",
+        "5.20",
+        "MANCHESTER UNITED",
+        "VS",
+        "SOUTHAMPTON FC",
+        "22/08"
+    ],
+    "WO3.Vsepl": [
+        "2.5",
+        "2.41",
+        "3.10",
+        "3.20",
+        "TOTTENHAM HOTSPUR",
+        "VS",
+        "WOLVERHAMPTON WANDERERS",
+        "22/08"
+    ],
+    "AR4.Vsepl": [
+        "2.5",
+        "1.76",
+        "3.70",
+        "4.70",
+        "CHELSEA FC",
+        "VS",
+        "ARSENAL FC",
+        "22/08"
+    ],
+    "WE2.Vsepl": [
+        "2.5",
+        "2.75",
+        "3.40",
+        "2.55",
+        "LEICESTER CITY",
+        "VS",
+        "WEST HAM UNITED",
+        "23/08"
+    ],
+    "BR2.Vsepl": [
+        "2.5",
+        "2.95",
+        "3.25",
+        "2.31",
+        "EVERTON FC",
+        "VS",
+        "BRIGHTON & HOVE ALBION",
+        "28/08"
+    ],
+    "NO4.Vsepl": [
+        "2.5",
+        "1.71",
+        "3.65",
+        "4.50",
+        "LEICESTER CITY",
+        "VS",
+        "NORWICH CITY",
+        "28/08"
+    ],
+    "NE2.Vsepl": [
+        "2.5",
+        "2.60",
+        "3.45",
+        "2.47",
+        "SOUTHAMPTON FC",
+        "VS",
+        "NEWCASTLE UNITED",
+        "28/08"
+    ],
+    "WE1.Vsepl": [
+        "2.5",
+        "5.20",
+        "3.80",
+        "1.59",
+        "CRYSTAL PALACE",
+        "VS",
+        "WEST HAM UNITED",
+        "28/08"
+    ],
+    "LI2.Vsepl": [
+        "2.5",
+        "2.90",
+        "3.40",
+        "2.27",
+        "CHELSEA FC",
+        "VS",
+        "LIVERPOOL FC",
+        "28/08"
+    ],
+    "BU2.Vsepl": [
+        "2.5",
+        "2.22",
+        "3.55",
+        "2.90",
+        "LEEDS UNITED",
+        "VS",
+        "BURNLEY FC",
+        "29/08"
+    ],
+    "TO1.Vsepl": [
+        "2.5",
+        "7.00",
+        "4.40",
+        "1.40",
+        "WATFORD FC",
+        "VS",
+        "TOTTENHAM HOTSPUR",
+        "29/08"
+    ],
+    "WO5.Vsepl": [
+        "2.5",
+        "1.61",
+        "3.80",
+        "5.20",
+        "MANCHESTER UNITED",
+        "VS",
+        "WOLVERHAMPTON WANDERERS",
+        "29/08"
+    ],
+    "RE1.Vsspl": [
+        "2.5",
+        "5.60",
+        "4.10",
+        "1.53",
+        "LEVANTE UD",
+        "VS",
+        "REAL SOCIEDAD SAN SEBASTIAN",
+        "28/08"
+    ],
+    "DE2.Vsspl": [
+        "2.5",
+        "3.35",
+        "3.20",
+        "2.28",
+        "RCD MALLORCA",
+        "VS",
+        "DEPORTIVO ALAVES",
+        "21/08"
+    ],
+    "GR2.Vsspl": [
+        "2.5",
+        "2.90",
+        "3.25",
+        "2.50",
+        "VALENCIA CF",
+        "VS",
+        "GRANADA CF",
+        "21/08"
+    ],
+    "ES3.Vsspl": [
+        "2.5",
+        "2.36",
+        "3.35",
+        "3.05",
+        "VILLARREAL CF",
+        "VS",
+        "ESPANYOL BARCELONA",
+        "21/08"
+    ],
+    "AT4.Vsspl": [
+        "2.5",
+        "1.88",
+        "3.70",
+        "4.00",
+        "FC BARCELONA",
+        "VS",
+        "ATHLETIC BILBAO",
+        "21/08"
+    ],
+    "AT1.Vsspl": [
+        "2.5",
+        "4.60",
+        "3.40",
+        "1.77",
+        "VILLARREAL CF",
+        "VS",
+        "ATLETICO MADRID",
+        "29/08"
+    ],
+    "LE5.Vsspl": [
+        "2.5",
+        "1.63",
+        "4.20",
+        "5.00",
+        "REAL MADRID",
+        "VS",
+        "LEVANTE UD",
+        "22/08"
+    ],
+    "GE3.Vsspl": [
+        "2.5",
+        "2.23",
+        "3.15",
+        "3.55",
+        "SEVILLA FC",
+        "VS",
+        "GETAFE CF",
+        "23/08"
+    ],
+    "CA2.Vsspl": [
+        "2.5",
+        "2.50",
+        "2.95",
+        "2.90",
+        "CA OSASUNA",
+        "VS",
+        "CADIZ CF",
+        "29/08"
+    ],
+    "RC2.Vsspl": [
+        "2.5",
+        "3.00",
+        "3.10",
+        "2.35",
+        "ATHLETIC BILBAO",
+        "VS",
+        "RC CELTA DE VIGO",
+        "28/08"
+    ],
+    "VA1.Vsspl": [
+        "2.5",
+        "4.00",
+        "3.40",
+        "1.87",
+        "DEPORTIVO ALAVES",
+        "VS",
+        "VALENCIA CF",
+        "27/08"
+    ],
+    "EL5.Vsspl": [
+        "2.5",
+        "1.55",
+        "3.80",
+        "5.80",
+        "SEVILLA FC",
+        "VS",
+        "ELCHE CF",
+        "28/08"
+    ],
+    "RE4.Vsspl": [
+        "2.5",
+        "1.78",
+        "3.70",
+        "4.00",
+        "REAL MADRID",
+        "VS",
+        "REAL BETIS SEVILLA",
+        "28/08"
+    ],
+    "FC1.Vsspl": [
+        "2.5",
+        "7.40",
+        "4.70",
+        "1.37",
+        "GETAFE CF",
+        "VS",
+        "FC BARCELONA",
+        "29/08"
+    ],
+    "RA2.Vsspl": [
+        "2.5",
+        "2.85",
+        "3.10",
+        "2.47",
+        "GRANADA CF",
+        "VS",
+        "RAYO VALLECANO",
+        "29/08"
+    ]
+}

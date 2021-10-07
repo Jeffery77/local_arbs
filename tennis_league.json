@@ -1,0 +1,24 @@
+
+
+ {
+ "ATP-French-open-men-singles" : ["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B3886%5D%7D%5D","3886"],
+ "ATP-French-open-men-doubles" :  ["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9331%5D%7D%5D","9331"],
+ "WTA-French-open-women-singles" :  ["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B3889%5D%7D%5D","3889"],
+ "WTA-French-open-women-doubles" : ["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9330%5D%7D%5D","9330"],
+ "ATP-Challenger-parma-italy-men-singles" : ["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9449%5D%7D%5D","9449"],
+ "ATP-Challenger-split-croatia-men-singles" : ["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9284%5D%7D%5D", "9284"],
+ 
+ "ATP-ST.PETERSBURRB":["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9958%5D%7D%5D","9958"],
+ "ATP-COLOGNE-DOUBLES":["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9961%5D%7D%5D","9961"],
+ "ATP-SARDINIA_DOUBLES":["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9962%5D%7D%5D","9962"],
+ "CHALLENGER-ALICANTE":["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9963%5D%7D%5D","9963"],
+ "CHALLENGER-LISBON":["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:5,%22leagues%22:%5B9964%5D%7D%5D","9964"],
+ 
+ 
+"NFL-american-football":["https://sports.betplanet.com.gh/home/wrapper/events?list=%5B%7B%22sport%22:16,%22leagues%22:%5B2452%5D%7D%5D","2452"]
+ }
+ 
+ 
+ 
+     
+

@@ -1,0 +1,369 @@
+{
+    "18 OCT SUNDAYla-liga-spl": {
+        "18ElDespl": [
+            "5.60",
+            "Elche CF",
+            "3.35",
+            "Draw",
+            "1.72",
+            "Deportivo Alaves S.A.D.",
+            "17:00"
+        ],
+        "18AtCespl": [
+            "1.73",
+            "Atletico Madrid",
+            "3.35",
+            "Draw",
+            "5.40",
+            "Celta de Vigo",
+            "17:00"
+        ],
+        "18SoBespl": [
+            "2.84",
+            "Real Sociedad",
+            "3.40",
+            "Draw",
+            "2.41",
+            "Real Betis",
+            "17:00"
+        ],
+        "18BaGespl": [
+            "1.74",
+            "Barcelona",
+            "3.75",
+            "Draw",
+            "4.55",
+            "Getafe CF",
+            "17:00"
+        ],
+        "18SeGrspl": [
+            "1.89",
+            "Sevilla FC",
+            "3.40",
+            "Draw",
+            "4.20",
+            "Granada CF",
+            "17:00"
+        ],
+        "18OsEispl": [
+            "3.05",
+            "CA Osasuna",
+            "3.00",
+            "Draw",
+            "2.50",
+            "SD Eibar",
+            "17:00"
+        ],
+        "18VaVispl": [
+            "5.10",
+            "Valencia CF",
+            "4.00",
+            "Draw",
+            "1.64",
+            "CF Villarreal",
+            "17:00"
+        ],
+        "18CaMaspl": [
+            "12.50",
+            "Cadiz CF",
+            "6.10",
+            "Draw",
+            "1.23",
+            "Real Madrid",
+            "17:00"
+        ],
+        "18LeAtspl": [
+            "4.05",
+            "UD Levante",
+            "3.25",
+            "Draw",
+            "1.99",
+            "Athletic Bilbao",
+            "17:00"
+        ],
+        "18VaHuspl": [
+            "3.45",
+            "Real Valladolid",
+            "2.84",
+            "Draw",
+            "2.39",
+            "SD Huesca",
+            "17:00"
+        ]
+    },
+    "25 OCT SUNDAYla-liga-spl": {
+        "25DeVaspl": [
+            "3.40",
+            "Deportivo Alaves S.A.D.",
+            "2.86",
+            "Draw",
+            "2.40",
+            "Real Valladolid",
+            "17:00"
+        ],
+        "25VaElspl": [
+            "2.77",
+            "Valencia CF",
+            "3.00",
+            "Draw",
+            "2.72",
+            "Elche CF",
+            "17:00"
+        ],
+        "25CeLespl": [
+            "3.05",
+            "Celta de Vigo",
+            "3.25",
+            "Draw",
+            "2.38",
+            "UD Levante",
+            "17:00"
+        ],
+        "25AtOsspl": [
+            "2.71",
+            "Athletic Bilbao",
+            "2.89",
+            "Draw",
+            "2.90",
+            "CA Osasuna",
+            "17:00"
+        ],
+        "25ViCaspl": [
+            "1.98",
+            "CF Villarreal",
+            "3.05",
+            "Draw",
+            "4.40",
+            "Cadiz CF",
+            "17:00"
+        ],
+        "25EiSespl": [
+            "7.10",
+            "SD Eibar",
+            "4.75",
+            "Draw",
+            "1.41",
+            "Sevilla FC",
+            "17:00"
+        ],
+        "25HuSospl": [
+            "7.10",
+            "SD Huesca",
+            "3.90",
+            "Draw",
+            "1.51",
+            "Real Sociedad",
+            "17:00"
+        ],
+        "25BeAtspl": [
+            "5.80",
+            "Real Betis",
+            "3.80",
+            "Draw",
+            "1.60",
+            "Atletico Madrid",
+            "17:00"
+        ],
+        "25MaBaspl": [
+            "2.98",
+            "Real Madrid",
+            "3.40",
+            "Draw",
+            "2.33",
+            "Barcelona",
+            "17:00"
+        ]
+    },
+    "17 OCT SATURDAYEnglish-premier-league-epl": {
+        "17LiEvepl": [
+            "1.85",
+            "Liverpool",
+            "3.95",
+            "Draw",
+            "3.80",
+            "Everton FC",
+            "11:30"
+        ],
+        "17FuShepl": [
+            "3.75",
+            "Fulham FC",
+            "3.25",
+            "Draw",
+            "2.06",
+            "Sheffield United",
+            "14:00"
+        ],
+        "17MaNeepl": [
+            "1.68",
+            "Manchester United",
+            "4.00",
+            "Draw",
+            "4.65",
+            "Newcastle United",
+            "14:00"
+        ],
+        "17BuBrepl": [
+            "2.89",
+            "Burnley FC",
+            "3.20",
+            "Draw",
+            "2.48",
+            "West Bromwich Albion",
+            "14:00"
+        ],
+        "17AsLeepl": [
+            "4.05",
+            "Aston Villa",
+            "3.90",
+            "Draw",
+            "1.80",
+            "Leicester City",
+            "14:00"
+        ],
+        "17SoChepl": [
+            "5.80",
+            "Southampton FC",
+            "4.55",
+            "Draw",
+            "1.50",
+            "Chelsea",
+            "14:00"
+        ],
+        "17ArMaepl": [
+            "6.30",
+            "Arsenal FC",
+            "5.10",
+            "Draw",
+            "1.41",
+            "Manchester City",
+            "16:30"
+        ]
+    },
+    "18 OCT SUNDAYEnglish-premier-league-epl": {
+        "18BrCrepl": [
+            "2.68",
+            "Brighton & Hove Albion FC",
+            "3.20",
+            "Draw",
+            "2.69",
+            "Crystal Palace",
+            "13:00"
+        ],
+        "18UnToepl": [
+            "5.10",
+            "West Ham United",
+            "4.10",
+            "Draw",
+            "1.61",
+            "Tottenham Hotspur",
+            "15:30"
+        ]
+    },
+    "19 OCT MONDAYEnglish-premier-league-epl": {
+        "19WoUnepl": [
+            "2.85",
+            "Wolverhampton Wanderers",
+            "3.20",
+            "Draw",
+            "2.53",
+            "Leeds United",
+            "19:00"
+        ]
+    },
+    "24 OCT SATURDAYEnglish-premier-league-epl": {
+        "24MaUnepl": [
+            "1.32",
+            "Manchester City",
+            "5.60",
+            "Draw",
+            "8.10",
+            "West Ham United",
+            "11:30"
+        ],
+        "24UnAsepl": [
+            "2.62",
+            "Leeds United",
+            "3.25",
+            "Draw",
+            "2.69",
+            "Aston Villa",
+            "14:00"
+        ],
+        "24BrBrepl": [
+            "3.75",
+            "West Bromwich Albion",
+            "3.55",
+            "Draw",
+            "1.96",
+            "Brighton & Hove Albion FC",
+            "14:00"
+        ],
+        "24CrFuepl": [
+            "2.47",
+            "Crystal Palace",
+            "3.15",
+            "Draw",
+            "2.95",
+            "Fulham FC",
+            "14:00"
+        ],
+        "24ShLiepl": [
+            "10.50",
+            "Sheffield United",
+            "6.20",
+            "Draw",
+            "1.25",
+            "Liverpool",
+            "14:00"
+        ],
+        "24LeArepl": [
+            "3.45",
+            "Leicester City",
+            "3.70",
+            "Draw",
+            "1.99",
+            "Arsenal FC",
+            "15:00"
+        ],
+        "24ChMaepl": [
+            "2.60",
+            "Chelsea",
+            "3.55",
+            "Draw",
+            "2.55",
+            "Manchester United",
+            "16:30"
+        ]
+    },
+    "25 OCT SUNDAYEnglish-premier-league-epl": {
+        "25EvSoepl": [
+            "2.33",
+            "Everton FC",
+            "3.30",
+            "Draw",
+            "3.05",
+            "Southampton FC",
+            "14:00"
+        ],
+        "25NeWoepl": [
+            "4.60",
+            "Newcastle United",
+            "3.65",
+            "Draw",
+            "1.76",
+            "Wolverhampton Wanderers",
+            "16:30"
+        ]
+    },
+    "26 OCT MONDAYEnglish-premier-league-epl": {
+        "26ToBuepl": [
+            "1.66",
+            "Tottenham Hotspur",
+            "3.85",
+            "Draw",
+            "5.10",
+            "Burnley FC",
+            "20:00"
+        ]
+    }
+}
