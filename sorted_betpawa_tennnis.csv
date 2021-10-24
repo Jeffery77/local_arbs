@@ -1,21 +1,43 @@
-Team1,Team2,odd1,odd2,date,league
-Gael Monfils,Gianluca Mager,1.16,4.50,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-John Millman,Jannik Sinner,5.00,1.13,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Kevin Anderson,Lorenzo Sonego,1.85,1.85,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Matteo Berrettini,Alejandro Tabilo,1.04,8.00,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-S. Fichman/G. Olmos,M. Ninomiya/S. Santamaria,1.15,4.65,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Veronika Kudermetova,Iga Swiatek,3.60,1.24,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Alexis Gautier,Daniel Antonio Nunez,1.06,7.00,6:00 pm Sun 10/10,"Tennis / Santiago Challenger 3, ATP Challenger"
-Rafael Matos,Carlos Gomez-Herrera,4.75,1.15,6:00 pm Sun 10/10,"Tennis / Santiago Challenger 3, ATP Challenger"
-Brandon Nakashime,Taylor Harry Fritz,1.59,2.19,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Carlos Alcaraz Garfia,Andy Murray,1.69,2.04,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Christian Garin,Ernesto Escobedo,1.83,1.87,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Fabio Fognini,Jan-Lennard Struff,1.79,1.90,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Shelby Rogers,Irina-Camelia Begu,1.53,2.30,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Sorana Cirstea,Elina Svitolina,4.00,1.20,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-A. Guarachi/D. Krawczyk,V. Kudermetova/E. Rybakina,2.25,1.57,9:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Sebastian Baez,Juan Pablo Varillas,1.59,2.19,9:00 pm Sun 10/10,"Tennis / Santiago Challenger 2, ATP Challenger"
-Aliaksandra Sasnovich,Simona Halep,4.00,1.20,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Emilio Gomez,Pablo Carreno-Busta,6.50,1.08,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Jenson Brooksby,Alexander Zverev,4.50,1.16,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
-Yulia Putintseva,Jelena Ostapenko,1.90,1.79,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+Team1,Team2,odd1,odd2,date,league
+
+Gael Monfils,Gianluca Mager,1.16,4.50,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+John Millman,Jannik Sinner,5.00,1.13,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Kevin Anderson,Lorenzo Sonego,1.85,1.85,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Matteo Berrettini,Alejandro Tabilo,1.04,8.00,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+S. Fichman/G. Olmos,M. Ninomiya/S. Santamaria,1.15,4.65,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Veronika Kudermetova,Iga Swiatek,3.60,1.24,6:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Alexis Gautier,Daniel Antonio Nunez,1.06,7.00,6:00 pm Sun 10/10,"Tennis / Santiago Challenger 3, ATP Challenger"
+
+Rafael Matos,Carlos Gomez-Herrera,4.75,1.15,6:00 pm Sun 10/10,"Tennis / Santiago Challenger 3, ATP Challenger"
+
+Brandon Nakashime,Taylor Harry Fritz,1.59,2.19,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Carlos Alcaraz Garfia,Andy Murray,1.69,2.04,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Christian Garin,Ernesto Escobedo,1.83,1.87,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Fabio Fognini,Jan-Lennard Struff,1.79,1.90,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+
+Shelby Rogers,Irina-Camelia Begu,1.53,2.30,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Sorana Cirstea,Elina Svitolina,4.00,1.20,8:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+A. Guarachi/D. Krawczyk,V. Kudermetova/E. Rybakina,2.25,1.57,9:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Sebastian Baez,Juan Pablo Varillas,1.59,2.19,9:00 pm Sun 10/10,"Tennis / Santiago Challenger 2, ATP Challenger"
+
+Aliaksandra Sasnovich,Simona Halep,4.00,1.20,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Emilio Gomez,Pablo Carreno-Busta,6.50,1.08,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Jenson Brooksby,Alexander Zverev,4.50,1.16,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
+Yulia Putintseva,Jelena Ostapenko,1.90,1.79,10:00 pm Sun 10/10,"Tennis / Indian Wells, ATP World Tour Masters 1000 / WTA Premier"
+
