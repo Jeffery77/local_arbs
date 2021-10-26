@@ -12,6 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 import json
 import csv
+import time
 
 
 options = webdriver.ChromeOptions()
@@ -22,18 +23,40 @@ driver = webdriver.Chrome(executable_path='chromedriver.exe',options=options)
 
 wait = WebDriverWait(driver,20)
 driver.get('https://betika.com.gh/s/tennis')
-upcoming_xpath = '/html/body/div[3]/main/div[1]/div/div[2]/div/div[2]/button'
-upcoming_xpath1 = '//button[@class="button account__payments__submit button button__secondary matches__more no-bg"]'
 
-#load_matches = "/html/body/div[3]/main/div[1]/div/div[2]/div/div[2]/button"
+team_names_xpath1 = '//span[@class="prebet-match__teams__home"]'
 
+team_names_xpath2 = '//div[@class="prebet-match__teams"]'
+league_class_name = 'pull-left'
+team_names_list1= []
 
-upcoming_button = wait.until(EC.presence_of_element_located((By.XPATH,upcoming_xpath1)))
+last_name = ''
+flag = True
+while flag:
+    team_names = wait.until(EC.presence_of_all_elements_located((By.XPATH,team_names_xpath1)))
+    team_names_list1 = []
 
-driver.execute_script("arguments[0].click();",upcoming_button)
-driver.execute_script("arguments[0].click();",upcoming_button)
-tournament_xpath = '//div[@class="pull-left"]'
+    for t in team_names:
+        team_names_list1.append(t.text)
+    print("Teams:")
+    print(team_names_list1)
+    if last_name != team_names_list1[-1]:
+        last_name = team_names_list1[-1]
+        driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+        time.sleep(3)
+    else:
+        upcoming_button_xpath = '//button[@class="button account__payments__submit button button__secondary matches__more no-bg"]'
+        upcoming_button = wait.until(EC.presence_of_element_located((By.XPATH,upcoming_button_xpath)))
+        driver.execute_script("arguments[0].click();",upcoming_button)
+        time.sleep(10)
+        team_names = wait.until(EC.presence_of_all_elements_located((By.XPATH,team_names_xpath2)))
+        league = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME,league_class_name)))
+        team_names_list1 = []
+        leagues = []
 
-tournaments = wait.until(EC.presence_of_all_elements_located((By.XPATH,tournament_xpath)))
-for t in tournaments:
-    print(t.text)
+        for t in team_names:
+            team_names_list1.append(t.text)
+        for l in league:
+            leagues.append(l.text)
+            
+        flag = False
